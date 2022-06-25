@@ -1,5 +1,5 @@
-@import "./utils/variables";
 @import "./base/reset";
+@import "./utils/variables";
 @import "./base/container";
 @import "./layout/header";
 @import "./layout/competences";
@@ -7,7 +7,6 @@
 @import "./layout/crew";
 @import "./layout/work";
 @import "./layout/partners";
-@import "./components/logo";
 @import "./layout/footer";
 @import "./portfolio/portfolio";
 @import "./components/modal";
