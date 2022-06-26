@@ -88,11 +88,10 @@ img {
   line-height: 1.19;
   letter-spacing: 0.03em;
   color: var(--accent-color);
-  
 }
 
 .header__logo {
-   margin-right: 93px;
+  margin-right: 93px;
 }
 
 .nav__list {
@@ -732,7 +731,7 @@ img {
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
-  
+
   color: var(--accent-color);
   display: inline-block;
 }
@@ -974,7 +973,7 @@ img {
 .modal-item {
   display: flex;
   flex-direction: column;
-  position: relative
+  position: relative;
   margin-bottom: 10px;
 }
 
@@ -1043,7 +1042,6 @@ img {
 }
 
 .checkbox-text {
-  /* margin-bottom: 30px; */
   color: var(--p-color);
   font-size: 14px;
   line-height: 1.71;
@@ -1054,7 +1052,6 @@ img {
 
 .checkbox-link {
   color: var(--accent-color);
-  /* vertical-align: middle; */
 }
 
 .input-check {
@@ -1087,7 +1084,6 @@ img {
 }
 
 .main-modal-btn {
-  /* position: absolute; */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1099,8 +1095,6 @@ img {
   border: none;
   transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
   cursor: pointer;
-  /* left: 700px;
-  top: 712px; */
   letter-spacing: 0.06em;
   font-size: 16px;
   line-height: 1.88;
@@ -1112,6 +1106,3 @@ img {
 .main-modal-btn:focus {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
-
-
-
